@@ -1,0 +1,1296 @@
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:43:44.430102 72.14.213.148:80 -> 192.168.1.170:56564
+TCP TTL:63 TOS:0x0 ID:59362 IpLen:20 DgmLen:590 DF
+***AP*** Seq: 0x253FA1DF  Ack: 0x28DA5330  Win: 0x6B4  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 5588555 166420156 
+
+[**] [1:100000137:1] COMMUNITY MISC BAD-SSL tcp detect [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:43:51.389898 204.11.50.137:80 -> 192.168.1.170:48498
+TCP TTL:63 TOS:0x0 ID:37658 IpLen:20 DgmLen:1432 DF
+***AP*** Seq: 0x25FCA220  Ack: 0x2ACDA64F  Win: 0x9D8  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 5589251 166421930 
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:43:52.237857 72.14.213.148:80 -> 192.168.1.170:56564
+TCP TTL:63 TOS:0x0 ID:59364 IpLen:20 DgmLen:596 DF
+***AP*** Seq: 0x253FA3F9  Ack: 0x28DA54E5  Win: 0x7C0  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 5589336 166422123 
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:43:53.999023 72.14.213.149:80 -> 192.168.1.170:33370
+TCP TTL:63 TOS:0x0 ID:51211 IpLen:20 DgmLen:468 DF
+***AP*** Seq: 0x2E1F81F8  Ack: 0x322F99F2  Win: 0x6CF  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 5589512 166422527 
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:43:55.584314 72.14.213.149:80 -> 192.168.1.170:33372
+TCP TTL:63 TOS:0x0 ID:34901 IpLen:20 DgmLen:468 DF
+***AP*** Seq: 0x2F7AC2C1  Ack: 0x33DF9CC5  Win: 0x6CF  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 5589671 166422935 
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:43:55.729504 72.14.213.148:80 -> 192.168.1.170:56594
+TCP TTL:63 TOS:0x0 ID:55620 IpLen:20 DgmLen:596 DF
+***AP*** Seq: 0x2F5A93E5  Ack: 0x33B8FE56  Win: 0x6B4  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 5589685 166422978 
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:43:56.516666 72.14.213.113:80 -> 192.168.1.170:60486
+TCP TTL:63 TOS:0x0 ID:12103 IpLen:20 DgmLen:560 DF
+***AP*** Seq: 0x2FB7952C  Ack: 0x33DFDC8A  Win: 0x896  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 5589764 166423194 
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:43:57.909014 72.14.213.113:80 -> 192.168.1.170:60494
+TCP TTL:63 TOS:0x0 ID:43737 IpLen:20 DgmLen:583 DF
+***AP*** Seq: 0x31D3E1A6  Ack: 0x36477EE5  Win: 0x6B4  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 5589903 166423519 
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:43:57.934968 72.14.213.113:80 -> 192.168.1.170:60486
+TCP TTL:63 TOS:0x0 ID:12115 IpLen:20 DgmLen:560 DF
+***AP*** Seq: 0x2FB7C66C  Ack: 0x33DFE104  Win: 0xC59  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 5589906 166423548 
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:44:00.558967 64.94.107.50:80 -> 192.168.1.170:60683
+TCP TTL:63 TOS:0x0 ID:14509 IpLen:20 DgmLen:498 DF
+***AP*** Seq: 0x33CA7429  Ack: 0x380C3A86  Win: 0x6B4  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 5590168 166424176 
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:44:52.462641 72.14.213.113:80 -> 192.168.1.170:43292
+TCP TTL:63 TOS:0x0 ID:48750 IpLen:20 DgmLen:560 DF
+***AP*** Seq: 0x63C20DF2  Ack: 0x693128AA  Win: 0x89C  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 5595358 166437183 
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:44:52.545815 72.14.213.113:80 -> 192.168.1.170:43293
+TCP TTL:63 TOS:0x0 ID:51629 IpLen:20 DgmLen:560 DF
+***AP*** Seq: 0x6472A975  Ack: 0x6A25CF4B  Win: 0x78F  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 5595367 166437188 
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:44:53.234462 64.94.107.50:80 -> 192.168.1.170:43955
+TCP TTL:63 TOS:0x0 ID:21922 IpLen:20 DgmLen:672 DF
+***AP*** Seq: 0x64E634B8  Ack: 0x6A9137FA  Win: 0x6C2  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 5595435 166437348 
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:44:56.521718 74.122.140.21:80 -> 192.168.1.170:60513
+TCP TTL:63 TOS:0x0 ID:973 IpLen:20 DgmLen:771 DF
+***AP*** Seq: 0x2EBE774F  Ack: 0x337EB8FA  Win: 0xAAA  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 5595764 166438181 
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:44:56.591637 204.236.235.239:80 -> 192.168.1.170:50817
+TCP TTL:63 TOS:0x0 ID:55587 IpLen:20 DgmLen:442 DF
+***AP*** Seq: 0x53F38302  Ack: 0x5A3E244F  Win: 0x6BD  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 5595771 166432885 
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:45:00.179227 207.171.185.201:80 -> 192.168.1.170:59891
+TCP TTL:63 TOS:0x0 ID:9883 IpLen:20 DgmLen:693 DF
+***AP*** Seq: 0x6AFC454F  Ack: 0x711BD654  Win: 0x6B4  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 5596130 166439099 
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:45:09.351488 207.46.140.21:80 -> 192.168.1.169:2127
+TCP TTL:63 TOS:0x0 ID:5298 IpLen:20 DgmLen:607 DF
+***AP*** Seq: 0x72F77253  Ack: 0xF2E55562  Win: 0x1B20  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:45:09.834604 207.46.193.178:80 -> 192.168.1.169:2132
+TCP TTL:63 TOS:0x0 ID:65214 IpLen:20 DgmLen:455 DF
+***AP*** Seq: 0x739099DC  Ack: 0x1D01478F  Win: 0x1920  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:45:10.109334 204.236.235.239:80 -> 192.168.1.170:50817
+TCP TTL:63 TOS:0x0 ID:55589 IpLen:20 DgmLen:442 DF
+***AP*** Seq: 0x53F38488  Ack: 0x5A3E2668  Win: 0x7D2  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 5597123 166439220 
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:45:51.204013 65.54.95.43:80 -> 192.168.1.169:2142
+TCP TTL:63 TOS:0x0 ID:48309 IpLen:20 DgmLen:809 DF
+***AP*** Seq: 0x924FC8F4  Ack: 0x24DF9700  Win: 0x1920  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:46:15.877801 207.46.140.21:80 -> 192.168.1.169:2151
+TCP TTL:63 TOS:0x0 ID:12736 IpLen:20 DgmLen:607 DF
+***AP*** Seq: 0xB1AAB0D8  Ack: 0x6343DE6A  Win: 0x1A15  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:46:41.047029 72.14.213.101:80 -> 192.168.1.170:40487
+TCP TTL:63 TOS:0x0 ID:34155 IpLen:20 DgmLen:560 DF
+***AP*** Seq: 0xC92A3D99  Ack: 0xCEEDCEB1  Win: 0x896  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 5606216 166464319 
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:46:46.062546 72.14.213.139:80 -> 192.168.1.170:35507
+TCP TTL:63 TOS:0x0 ID:19066 IpLen:20 DgmLen:581 DF
+***AP*** Seq: 0xCE83C747  Ack: 0xD4013B6F  Win: 0x6B4  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 5606718 166465606 
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:46:49.917099 72.14.213.101:80 -> 192.168.1.170:40533
+TCP TTL:63 TOS:0x0 ID:24968 IpLen:20 DgmLen:560 DF
+***AP*** Seq: 0xD1251E47  Ack: 0xD7025374  Win: 0x852  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 5607103 166466553 
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:46:51.349826 204.236.235.239:80 -> 192.168.1.170:50911
+TCP TTL:63 TOS:0x0 ID:42499 IpLen:20 DgmLen:442 DF
+***AP*** Seq: 0xD2C02919  Ack: 0xD8063340  Win: 0x6E3  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 5607247 166466800 
+
+[**] [1:100000137:1] COMMUNITY MISC BAD-SSL tcp detect [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:47:21.299725 72.14.213.113:80 -> 192.168.1.170:43374
+TCP TTL:63 TOS:0x0 ID:26928 IpLen:20 DgmLen:1420 DF
+***AP*** Seq: 0xEA4423F5  Ack: 0xF09707BC  Win: 0xF17  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 5610242 166474418 
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:47:21.986839 204.236.235.239:80 -> 192.168.1.170:50911
+TCP TTL:63 TOS:0x0 ID:42501 IpLen:20 DgmLen:442 DF
+***AP*** Seq: 0xD2C02A9F  Ack: 0xD806355E  Win: 0x81E  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 5610310 166474300 
+
+[**] [1:100000137:1] COMMUNITY MISC BAD-SSL tcp detect [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:47:23.571802 208.185.127.35:80 -> 192.168.1.169:2160
+TCP TTL:63 TOS:0x0 ID:3854 IpLen:20 DgmLen:1400 DF
+***AP*** Seq: 0xF05C36AD  Ack: 0x236658AB  Win: 0x25B0  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:47:40.422545 204.236.235.239:80 -> 192.168.1.170:50911
+TCP TTL:63 TOS:0x0 ID:42503 IpLen:20 DgmLen:442 DF
+***AP*** Seq: 0xD2C02C25  Ack: 0xD8063780  Win: 0x959  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 5612154 166478048 
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:47:54.380938 204.236.235.239:80 -> 192.168.1.170:50911
+TCP TTL:63 TOS:0x0 ID:42505 IpLen:20 DgmLen:442 DF
+***AP*** Seq: 0xD2C02DAB  Ack: 0xD806399F  Win: 0xA94  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 5613550 166481796 
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:48:15.165730 204.236.235.239:80 -> 192.168.1.170:50911
+TCP TTL:63 TOS:0x0 ID:42507 IpLen:20 DgmLen:442 DF
+***AP*** Seq: 0xD2C02F31  Ack: 0xD8063BC1  Win: 0xBCF  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 5615628 166485550 
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:48:21.321644 204.236.235.239:80 -> 192.168.1.170:50911
+TCP TTL:63 TOS:0x0 ID:42509 IpLen:20 DgmLen:442 DF
+***AP*** Seq: 0xD2C030B7  Ack: 0xD8063DE2  Win: 0xD0A  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 5616244 166489299 
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:49:04.686538 72.14.213.102:80 -> 192.168.1.170:56506
+TCP TTL:63 TOS:0x0 ID:16643 IpLen:20 DgmLen:560 DF
+***AP*** Seq: 0x4FCFB2FB  Ack: 0x55022C14  Win: 0x84B  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 5620580 166500237 
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:49:10.528302 64.236.85.181:80 -> 192.168.1.169:2194
+TCP TTL:63 TOS:0x0 ID:2252 IpLen:20 DgmLen:926 DF
+***AP*** Seq: 0x5416CDDC  Ack: 0xE667F05A  Win: 0x1920  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:49:13.168434 208.185.127.35:80 -> 192.168.1.169:2184
+TCP TTL:63 TOS:0x0 ID:55667 IpLen:20 DgmLen:600 DF
+***AP*** Seq: 0x44DB731E  Ack: 0xA7EFA85D  Win: 0x2180  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:49:22.868610 66.199.151.142:80 -> 192.168.1.169:2201
+TCP TTL:63 TOS:0x0 ID:2281 IpLen:20 DgmLen:588 DF
+***AP*** Seq: 0x6137C299  Ack: 0x82C4ACE4  Win: 0x1920  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:49:25.703562 72.14.213.149:80 -> 192.168.1.170:55109
+TCP TTL:63 TOS:0x0 ID:63363 IpLen:20 DgmLen:588 DF
+***AP*** Seq: 0x63E63C18  Ack: 0x69B13559  Win: 0x6B4  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 5622682 166505525 
+
+[**] [1:100000137:1] COMMUNITY MISC BAD-SSL tcp detect [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:49:27.962570 72.14.213.113:80 -> 192.168.1.170:43374
+TCP TTL:63 TOS:0x0 ID:27354 IpLen:20 DgmLen:64 DF
+***AP*** Seq: 0xEA4CCC68  Ack: 0xF097111C  Win: 0x13E2  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 5622908 166506089 
+
+[**] [1:100000137:1] COMMUNITY MISC BAD-SSL tcp detect [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:49:28.024733 72.14.213.113:80 -> 192.168.1.170:43374
+TCP TTL:63 TOS:0x0 ID:27378 IpLen:20 DgmLen:1420 DF
+***AP*** Seq: 0xEA4D4700  Ack: 0xF097111C  Win: 0x13E2  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 5622914 166506105 
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:49:41.005265 69.172.216.55:80 -> 192.168.1.169:2208
+TCP TTL:63 TOS:0x0 ID:62140 IpLen:20 DgmLen:389 DF
+***AP*** Seq: 0x711743F8  Ack: 0x1AC019BC  Win: 0x2008  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:49:41.214088 69.172.216.55:80 -> 192.168.1.169:2208
+TCP TTL:63 TOS:0x0 ID:62141 IpLen:20 DgmLen:389 DF
+***AP*** Seq: 0x711743F8  Ack: 0x1AC019BC  Win: 0x2008  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:50:01.181375 72.14.213.102:80 -> 192.168.1.170:56506
+TCP TTL:63 TOS:0x0 ID:16645 IpLen:20 DgmLen:560 DF
+***AP*** Seq: 0x4FCFB4F7  Ack: 0x55023020  Win: 0xA51  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 5626229 166514378 
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:50:02.303214 72.14.213.149:80 -> 192.168.1.170:55115
+TCP TTL:63 TOS:0x0 ID:32448 IpLen:20 DgmLen:468 DF
+***AP*** Seq: 0x8521A773  Ack: 0x8B6B7830  Win: 0x6F3  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 5626342 166514613 
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:50:02.482083 72.14.213.149:80 -> 192.168.1.170:55116
+TCP TTL:63 TOS:0x0 ID:31561 IpLen:20 DgmLen:590 DF
+***AP*** Seq: 0x8581A2AF  Ack: 0x8B50EADC  Win: 0x6B4  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 5626359 166514682 
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:50:20.805096 199.255.33.45:80 -> 192.168.1.170:44249
+TCP TTL:63 TOS:0x0 ID:63647 IpLen:20 DgmLen:752 DF
+***AP*** Seq: 0x96C31999  Ack: 0x9C996D0A  Win: 0x6FA  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 5628192 166519242 
+
+[**] [1:100000137:1] COMMUNITY MISC BAD-SSL tcp detect [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:50:35.428083 72.14.213.113:80 -> 192.168.1.170:43374
+TCP TTL:63 TOS:0x0 ID:28054 IpLen:20 DgmLen:1420 DF
+***AP*** Seq: 0xEA5AD6C7  Ack: 0xF0972322  Win: 0x1D67  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 5629654 166522959 
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:50:41.459758 72.14.213.102:80 -> 192.168.1.170:56506
+TCP TTL:63 TOS:0x0 ID:16647 IpLen:20 DgmLen:560 DF
+***AP*** Seq: 0x4FCFB6F3  Ack: 0x55023318  Win: 0xC57  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 5630257 166524450 
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:50:41.549442 72.14.213.102:80 -> 192.168.1.170:41094
+TCP TTL:63 TOS:0x0 ID:61762 IpLen:20 DgmLen:560 DF
+***AP*** Seq: 0xA9E0186D  Ack: 0xAFDE772D  Win: 0x79C  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 5630266 166524456 
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:50:43.697900 72.247.253.115:80 -> 192.168.1.170:60069
+TCP TTL:63 TOS:0x0 ID:41892 IpLen:20 DgmLen:595 DF
+***AP*** Seq: 0xAC4749A7  Ack: 0xB1E217CD  Win: 0x6D8  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 5630481 166524995 
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:50:49.393211 204.203.18.139:80 -> 192.168.1.169:2211
+TCP TTL:63 TOS:0x0 ID:14479 IpLen:20 DgmLen:768 DF
+***AP*** Seq: 0xB16EE53F  Ack: 0x41C6ED8A  Win: 0x282D  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:50:50.999308 64.4.21.39:80 -> 192.168.1.169:2215
+TCP TTL:63 TOS:0x0 ID:3812 IpLen:20 DgmLen:837 DF
+***AP*** Seq: 0xB26DE4DE  Ack: 0xA2041FC8  Win: 0x1F11  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:50:51.148406 204.203.18.139:80 -> 192.168.1.169:2212
+TCP TTL:63 TOS:0x0 ID:20118 IpLen:20 DgmLen:861 DF
+***AP*** Seq: 0xB186267D  Ack: 0x60541DDC  Win: 0x3CA3  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:51:49.929017 204.203.18.147:80 -> 192.168.1.169:2238
+TCP TTL:63 TOS:0x0 ID:10869 IpLen:20 DgmLen:413 DF
+***AP*** Seq: 0xE9F129A8  Ack: 0x1BCDF6DA  Win: 0x1AEA  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:51:49.935580 204.203.18.147:80 -> 192.168.1.169:2239
+TCP TTL:63 TOS:0x0 ID:3407 IpLen:20 DgmLen:413 DF
+***AP*** Seq: 0xEA280E92  Ack: 0xFFB8919E  Win: 0x1AEA  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:51:49.942300 204.203.18.136:80 -> 192.168.1.169:2240
+TCP TTL:63 TOS:0x0 ID:42937 IpLen:20 DgmLen:637 DF
+***AP*** Seq: 0xE972A458  Ack: 0xF536A2B3  Win: 0x1920  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:51:49.960520 204.203.18.147:80 -> 192.168.1.169:2238
+TCP TTL:63 TOS:0x0 ID:10871 IpLen:20 DgmLen:411 DF
+***AP*** Seq: 0xE9F12B1D  Ack: 0x1BCDF98B  Win: 0x204C  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:51:50.660559 66.199.151.142:80 -> 192.168.1.169:2248
+TCP TTL:63 TOS:0x0 ID:30753 IpLen:20 DgmLen:588 DF
+***AP*** Seq: 0xEAED7C07  Ack: 0xFF098E15  Win: 0x1920  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:51:50.800869 66.199.151.142:80 -> 192.168.1.169:2248
+TCP TTL:63 TOS:0x0 ID:30755 IpLen:20 DgmLen:588 DF
+***AP*** Seq: 0xEAED7E2B  Ack: 0xFF098FE7  Win: 0x1D50  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:51:51.651178 208.71.198.133:80 -> 192.168.1.169:2251
+TCP TTL:63 TOS:0x0 ID:34248 IpLen:20 DgmLen:869 DF
+***AP*** Seq: 0xEA6C890C  Ack: 0xE5A3E904  Win: 0x27BA  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:51:51.736993 207.46.148.35:80 -> 192.168.1.169:2253
+TCP TTL:63 TOS:0x0 ID:57650 IpLen:20 DgmLen:455 DF
+***AP*** Seq: 0xEB71E5B2  Ack: 0x36EFF397  Win: 0x1920  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:51:51.769609 64.94.107.20:80 -> 192.168.1.169:2254
+TCP TTL:63 TOS:0x0 ID:48870 IpLen:20 DgmLen:486 DF
+***AP*** Seq: 0xEB8BBA66  Ack: 0x58E76F7A  Win: 0x1920  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:51:51.886458 208.71.198.133:80 -> 192.168.1.169:2256
+TCP TTL:63 TOS:0x0 ID:17937 IpLen:20 DgmLen:869 DF
+***AP*** Seq: 0xEB824282  Ack: 0x2C01B229  Win: 0x1C38  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:51:51.897291 208.71.198.133:80 -> 192.168.1.169:2257
+TCP TTL:63 TOS:0x0 ID:3944 IpLen:20 DgmLen:869 DF
+***AP*** Seq: 0xEB690BF5  Ack: 0x6767D42D  Win: 0x1C4D  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:52:08.448729 204.203.18.154:80 -> 192.168.1.169:2260
+TCP TTL:63 TOS:0x0 ID:49984 IpLen:20 DgmLen:499 DF
+***AP*** Seq: 0xFB37CC16  Ack: 0x41FD13D3  Win: 0x1D50  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:52:10.760511 66.114.50.47:80 -> 192.168.1.169:2265
+TCP TTL:63 TOS:0x0 ID:32220 IpLen:20 DgmLen:577 DF
+***AP*** Seq: 0xFD8C7624  Ack: 0x857C0597  Win: 0x1B3A  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:52:10.944676 66.114.50.47:80 -> 192.168.1.169:2264
+TCP TTL:63 TOS:0x0 ID:59121 IpLen:20 DgmLen:577 DF
+***AP*** Seq: 0xFCDBEF2B  Ack: 0xD16DD172  Win: 0x203D  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:52:32.441844 208.71.198.133:80 -> 192.168.1.169:2251
+TCP TTL:63 TOS:0x0 ID:34250 IpLen:20 DgmLen:885 DF
+***AP*** Seq: 0xEA6C8C49  Ack: 0xE5A3EDBD  Win: 0x2F3A  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:52:36.272357 208.71.198.133:80 -> 192.168.1.169:2256
+TCP TTL:63 TOS:0x0 ID:17940 IpLen:20 DgmLen:933 DF
+***AP*** Seq: 0xEB8245BF  Ack: 0x2C01B9A7  Win: 0x3354  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:52:36.893492 207.46.148.35:80 -> 192.168.1.169:2253
+TCP TTL:63 TOS:0x0 ID:57652 IpLen:20 DgmLen:455 DF
+***AP*** Seq: 0xEB71E751  Ack: 0x36EFF538  Win: 0x1D50  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:52:36.965692 64.94.107.20:80 -> 192.168.1.169:2281
+TCP TTL:63 TOS:0x0 ID:29468 IpLen:20 DgmLen:486 DF
+***AP*** Seq: 0x170E6527  Ack: 0x18257028  Win: 0x1920  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:52:37.003169 69.194.244.11:80 -> 192.168.1.169:2280
+TCP TTL:63 TOS:0x0 ID:31582 IpLen:20 DgmLen:959 DF
+***AP*** Seq: 0x17116D64  Ack: 0xE398BB2E  Win: 0x1920  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:52:38.358816 98.137.51.254:80 -> 192.168.1.169:2228
+TCP TTL:63 TOS:0x0 ID:16787 IpLen:20 DgmLen:764 DF
+***AP*** Seq: 0xE76B6651  Ack: 0x6B222BCF  Win: 0x3908  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:52:38.433211 138.108.5.10:80 -> 192.168.1.169:2283
+TCP TTL:63 TOS:0x0 ID:33846 IpLen:20 DgmLen:801 DF
+***AP*** Seq: 0x171692B4  Ack: 0xB745A9EA  Win: 0x1A83  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:52:38.941344 208.71.198.133:80 -> 192.168.1.169:2257
+TCP TTL:63 TOS:0x0 ID:3947 IpLen:20 DgmLen:1017 DF
+***AP*** Seq: 0xEB690F32  Ack: 0x6767DB33  Win: 0x3354  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:52:50.108083 74.122.140.121:80 -> 192.168.1.169:2276
+TCP TTL:63 TOS:0x0 ID:38022 IpLen:20 DgmLen:598 DF
+***AP*** Seq: 0x1630AD94  Ack: 0x194EE614  Win: 0x2FD3  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:52:50.754182 74.122.140.121:80 -> 192.168.1.169:2276
+TCP TTL:63 TOS:0x0 ID:38027 IpLen:20 DgmLen:759 DF
+***AP*** Seq: 0x1630B811  Ack: 0x194EEB1B  Win: 0x4137  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:52:51.117587 207.171.185.201:80 -> 192.168.1.169:2300
+TCP TTL:63 TOS:0x0 ID:52541 IpLen:20 DgmLen:689 DF
+***AP*** Seq: 0x241FD6E9  Ack: 0x9BBFB074  Win: 0x1920  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:52:51.394218 184.24.130.77:80 -> 192.168.1.169:2301
+TCP TTL:63 TOS:0x0 ID:53728 IpLen:20 DgmLen:1023 DF
+***AP*** Seq: 0x23CDCA3E  Ack: 0x105E6F11  Win: 0x1920  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:52:51.586201 204.11.109.24:80 -> 192.168.1.169:2302
+TCP TTL:63 TOS:0x0 ID:41071 IpLen:20 DgmLen:648 DF
+***AP*** Seq: 0x249DBE18  Ack: 0xF130DF3C  Win: 0x1D50  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:53:12.275608 72.14.213.101:80 -> 192.168.1.170:34938
+TCP TTL:63 TOS:0x0 ID:41129 IpLen:20 DgmLen:560 DF
+***AP*** Seq: 0x380984A4  Ack: 0x3C2C35FD  Win: 0x7B7  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 5645338 166562143 
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:53:13.217009 204.77.31.254:80 -> 192.168.1.170:52487
+TCP TTL:63 TOS:0x0 ID:29864 IpLen:20 DgmLen:687 DF
+***AP*** Seq: 0x389850FB  Ack: 0x3CC86651  Win: 0x70E  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 5645432 166562345 
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:53:15.690819 72.247.253.115:80 -> 192.168.1.170:60077
+TCP TTL:63 TOS:0x0 ID:2268 IpLen:20 DgmLen:595 DF
+***AP*** Seq: 0x3AE92DB8  Ack: 0x3F6D5C6D  Win: 0x6FF  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 5645680 166563003 
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:53:24.823879 208.71.198.133:80 -> 192.168.1.169:2251
+TCP TTL:63 TOS:0x0 ID:34253 IpLen:20 DgmLen:933 DF
+***AP*** Seq: 0xEA6C8F96  Ack: 0xE5A3F4AE  Win: 0x4A24  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:53:25.656624 184.24.130.77:80 -> 192.168.1.169:2301
+TCP TTL:63 TOS:0x0 ID:53730 IpLen:20 DgmLen:492 DF
+***AP*** Seq: 0x23CDCE15  Ack: 0x105E7051  Win: 0x1D50  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:53:25.672738 184.24.130.77:80 -> 192.168.1.169:2301
+TCP TTL:63 TOS:0x0 ID:53731 IpLen:20 DgmLen:492 DF
+***AP*** Seq: 0x23CDCFD9  Ack: 0x105E7191  Win: 0x2180  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:53:25.843290 184.24.130.77:80 -> 192.168.1.169:2301
+TCP TTL:63 TOS:0x0 ID:53732 IpLen:20 DgmLen:492 DF
+***AP*** Seq: 0x23CDD19D  Ack: 0x105E72D1  Win: 0x25B0  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:53:26.118069 207.46.148.35:80 -> 192.168.1.169:2312
+TCP TTL:63 TOS:0x0 ID:60717 IpLen:20 DgmLen:455 DF
+***AP*** Seq: 0x43F9C471  Ack: 0xF632EAA1  Win: 0x1920  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:53:26.176160 204.11.109.24:80 -> 192.168.1.169:2314
+TCP TTL:63 TOS:0x0 ID:10382 IpLen:20 DgmLen:654 DF
+***AP*** Seq: 0x44C901EA  Ack: 0x1DD17094  Win: 0x1920  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:53:26.205129 64.94.107.20:80 -> 192.168.1.169:2316
+TCP TTL:63 TOS:0x0 ID:6540 IpLen:20 DgmLen:486 DF
+***AP*** Seq: 0x44BF30FA  Ack: 0x1356763A  Win: 0x1920  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:53:26.239849 69.194.244.11:80 -> 192.168.1.169:2315
+TCP TTL:63 TOS:0x0 ID:45214 IpLen:20 DgmLen:981 DF
+***AP*** Seq: 0x444A99EC  Ack: 0x7EDBEDCC  Win: 0x1A36  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:53:26.326435 208.71.198.133:80 -> 192.168.1.169:2256
+TCP TTL:63 TOS:0x0 ID:17943 IpLen:20 DgmLen:933 DF
+***AP*** Seq: 0xEB82493C  Ack: 0x2C01BFF0  Win: 0x3EBC  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:53:27.958995 65.54.95.148:80 -> 192.168.1.169:2317
+TCP TTL:63 TOS:0x0 ID:16476 IpLen:20 DgmLen:433 DF
+***AP*** Seq: 0x46676A74  Ack: 0x3ECACF4C  Win: 0x1920  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:54:41.952553 72.14.213.102:80 -> 192.168.1.169:2353
+TCP TTL:63 TOS:0x0 ID:58177 IpLen:20 DgmLen:548 DF
+***AP*** Seq: 0x8AD7A449  Ack: 0xE544028E  Win: 0x1A88  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:54:42.031106 72.14.213.102:80 -> 192.168.1.169:2352
+TCP TTL:63 TOS:0x0 ID:20043 IpLen:20 DgmLen:548 DF
+***AP*** Seq: 0x8B52095E  Ack: 0x765BD511  Win: 0x1C68  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:54:42.141771 205.188.60.65:80 -> 192.168.1.169:2346
+TCP TTL:63 TOS:0x0 ID:19794 IpLen:20 DgmLen:708 DF
+***AP*** Seq: 0x8AA10FCF  Ack: 0xF90DBA50  Win: 0x1D50  TcpLen: 20
+
+[**] [1:100000137:1] COMMUNITY MISC BAD-SSL tcp detect [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:55:18.165143 204.203.18.160:80 -> 192.168.1.169:2362
+TCP TTL:63 TOS:0x0 ID:8111 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x97782AB1  Ack: 0xE709AA3D  Win: 0x29E0  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:55:20.585716 204.203.18.146:80 -> 192.168.1.169:2376
+TCP TTL:63 TOS:0x0 ID:47856 IpLen:20 DgmLen:532 DF
+***AP*** Seq: 0xAF15ECCC  Ack: 0x96697C49  Win: 0x1920  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:55:27.055562 72.14.213.102:80 -> 192.168.1.169:2353
+TCP TTL:63 TOS:0x0 ID:58179 IpLen:20 DgmLen:548 DF
+***AP*** Seq: 0x8AD7A645  Ack: 0xE544058D  Win: 0x212A  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:55:27.168069 72.14.213.102:80 -> 192.168.1.169:2352
+TCP TTL:63 TOS:0x0 ID:20045 IpLen:20 DgmLen:548 DF
+***AP*** Seq: 0x8B520B5A  Ack: 0x765BD84C  Win: 0x2382  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:55:28.785008 64.236.85.181:80 -> 192.168.1.169:2381
+TCP TTL:63 TOS:0x0 ID:38851 IpLen:20 DgmLen:926 DF
+***AP*** Seq: 0xB659CE99  Ack: 0x27DAD45A  Win: 0x1920  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:55:31.479403 205.188.60.65:80 -> 192.168.1.169:2346
+TCP TTL:63 TOS:0x0 ID:19796 IpLen:20 DgmLen:400 DF
+***AP*** Seq: 0x8AA1126B  Ack: 0xF90DBF17  Win: 0x2638  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:55:32.767287 205.188.60.65:80 -> 192.168.1.169:2346
+TCP TTL:63 TOS:0x0 ID:19798 IpLen:20 DgmLen:400 DF
+***AP*** Seq: 0x8AA113D3  Ack: 0xF90DC3DE  Win: 0x2FC6  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:55:34.785218 205.188.60.65:80 -> 192.168.1.169:2346
+TCP TTL:63 TOS:0x0 ID:19800 IpLen:20 DgmLen:400 DF
+***AP*** Seq: 0x8AA1153B  Ack: 0xF90DC8A5  Win: 0x3954  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:55:35.785438 205.188.60.65:80 -> 192.168.1.169:2346
+TCP TTL:63 TOS:0x0 ID:19802 IpLen:20 DgmLen:400 DF
+***AP*** Seq: 0x8AA116A3  Ack: 0xF90DCD6C  Win: 0x42E2  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:55:37.280670 205.188.60.65:80 -> 192.168.1.169:2346
+TCP TTL:63 TOS:0x0 ID:19804 IpLen:20 DgmLen:400 DF
+***AP*** Seq: 0x8AA1180B  Ack: 0xF90DD233  Win: 0x4C70  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:55:38.227090 205.188.60.65:80 -> 192.168.1.169:2346
+TCP TTL:63 TOS:0x0 ID:19806 IpLen:20 DgmLen:400 DF
+***AP*** Seq: 0x8AA11973  Ack: 0xF90DD6FA  Win: 0x55FE  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:55:39.188834 205.188.60.65:80 -> 192.168.1.169:2346
+TCP TTL:63 TOS:0x0 ID:19808 IpLen:20 DgmLen:400 DF
+***AP*** Seq: 0x8AA11ADB  Ack: 0xF90DDBC1  Win: 0x5F8C  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:55:40.157454 205.188.60.65:80 -> 192.168.1.169:2346
+TCP TTL:63 TOS:0x0 ID:19810 IpLen:20 DgmLen:400 DF
+***AP*** Seq: 0x8AA11C43  Ack: 0xF90DE088  Win: 0x691A  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:55:41.050128 205.188.60.65:80 -> 192.168.1.169:2346
+TCP TTL:63 TOS:0x0 ID:19812 IpLen:20 DgmLen:400 DF
+***AP*** Seq: 0x8AA11DAB  Ack: 0xF90DE54F  Win: 0x72A8  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:55:41.812408 205.188.60.65:80 -> 192.168.1.169:2346
+TCP TTL:63 TOS:0x0 ID:19814 IpLen:20 DgmLen:400 DF
+***AP*** Seq: 0x8AA11F13  Ack: 0xF90DEA17  Win: 0x7C50  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:55:42.938372 205.188.60.65:80 -> 192.168.1.169:2346
+TCP TTL:63 TOS:0x0 ID:19816 IpLen:20 DgmLen:400 DF
+***AP*** Seq: 0x8AA1207B  Ack: 0xF90DEEE2  Win: 0x8634  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:55:43.875571 205.188.60.65:80 -> 192.168.1.169:2346
+TCP TTL:63 TOS:0x0 ID:19818 IpLen:20 DgmLen:400 DF
+***AP*** Seq: 0x8AA121E3  Ack: 0xF90DF3AD  Win: 0x8FCA  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:55:45.377794 205.188.60.65:80 -> 192.168.1.169:2346
+TCP TTL:63 TOS:0x0 ID:19820 IpLen:20 DgmLen:400 DF
+***AP*** Seq: 0x8AA1234B  Ack: 0xF90DF8A8  Win: 0x9A65  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:55:47.088376 205.188.60.65:80 -> 192.168.1.169:2346
+TCP TTL:63 TOS:0x0 ID:19822 IpLen:20 DgmLen:443 DF
+***AP*** Seq: 0x8AA124B3  Ack: 0xF90DFBF4  Win: 0xA45B  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:57:02.732798 204.203.18.155:80 -> 192.168.1.170:60713
+TCP TTL:63 TOS:0x0 ID:14374 IpLen:20 DgmLen:504 DF
+***AP*** Seq: 0x24337D91  Ack: 0x140F14D4  Win: 0x91F  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 5668383 166619787 
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:57:29.772084 204.203.18.152:80 -> 192.168.1.170:38828
+TCP TTL:63 TOS:0x0 ID:45234 IpLen:20 DgmLen:582 DF
+***AP*** Seq: 0x3EE13813  Ack: 0x2CD5BDEF  Win: 0x6B4  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 5671087 166626532 
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:57:35.600826 138.108.29.10:80 -> 192.168.1.170:41679
+TCP TTL:63 TOS:0x0 ID:25735 IpLen:20 DgmLen:557 DF
+***AP*** Seq: 0x437EEE5A  Ack: 0x326FB9A5  Win: 0x712  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 5671670 166627959 
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:57:45.572692 72.14.213.113:80 -> 192.168.1.170:38660
+TCP TTL:63 TOS:0x0 ID:9957 IpLen:20 DgmLen:560 DF
+***AP*** Seq: 0x4CE8A829  Ack: 0x3BDE78BD  Win: 0x7AE  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 5672667 166630482 
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:57:46.514780 199.255.33.45:80 -> 192.168.1.170:41404
+TCP TTL:63 TOS:0x0 ID:5849 IpLen:20 DgmLen:687 DF
+***AP*** Seq: 0x4E3699FB  Ack: 0x3D299287  Win: 0x709  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 5672761 166630696 
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:57:49.125541 96.6.197.115:80 -> 192.168.1.170:49505
+TCP TTL:63 TOS:0x0 ID:477 IpLen:20 DgmLen:595 DF
+***AP*** Seq: 0x511891ED  Ack: 0x3ECF3A97  Win: 0x6FA  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 5673022 166631371 
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:58:08.339690 72.14.213.102:80 -> 192.168.1.169:2402
+TCP TTL:63 TOS:0x0 ID:53397 IpLen:20 DgmLen:548 DF
+***AP*** Seq: 0x62897656  Ack: 0x573A6344  Win: 0x2080  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:58:11.186774 72.14.213.102:80 -> 192.168.1.169:2402
+TCP TTL:63 TOS:0x0 ID:53399 IpLen:20 DgmLen:548 DF
+***AP*** Seq: 0x62897852  Ack: 0x573A6683  Win: 0x2700  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:58:25.534057 72.14.213.102:80 -> 192.168.1.169:2402
+TCP TTL:63 TOS:0x0 ID:53401 IpLen:20 DgmLen:548 DF
+***AP*** Seq: 0x62897A4E  Ack: 0x573A69E4  Win: 0x2BED  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:59:07.676303 208.92.41.66:80 -> 192.168.1.169:2415
+TCP TTL:63 TOS:0x0 ID:12209 IpLen:20 DgmLen:1032 DF
+***AP*** Seq: 0x997F817D  Ack: 0xAC07E87A  Win: 0x1920  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:59:08.850668 72.14.213.148:80 -> 192.168.1.169:2418
+TCP TTL:63 TOS:0x0 ID:30070 IpLen:20 DgmLen:456 DF
+***AP*** Seq: 0x9A9FDA3C  Ack: 0xB939A992  Win: 0x1920  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:59:09.261868 72.14.213.149:80 -> 192.168.1.169:2417
+TCP TTL:63 TOS:0x0 ID:36009 IpLen:20 DgmLen:584 DF
+***AP*** Seq: 0x9ADB837D  Ack: 0x88DCF0CB  Win: 0x1D50  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:59:17.789829 66.114.50.60:80 -> 192.168.1.169:2436
+TCP TTL:63 TOS:0x0 ID:37372 IpLen:20 DgmLen:577 DF
+***AP*** Seq: 0xA3012330  Ack: 0xEE160D1E  Win: 0x1B9E  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:59:17.802693 66.114.50.60:80 -> 192.168.1.169:2435
+TCP TTL:63 TOS:0x0 ID:27086 IpLen:20 DgmLen:576 DF
+***AP*** Seq: 0xA30ADB04  Ack: 0xFFA472AA  Win: 0x1920  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:59:43.670071 72.14.213.102:80 -> 192.168.1.169:2461
+TCP TTL:63 TOS:0x0 ID:17594 IpLen:20 DgmLen:548 DF
+***AP*** Seq: 0xBA931541  Ack: 0x54A923A4  Win: 0x1F68  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-07:59:44.569438 204.203.18.152:80 -> 192.168.1.169:2464
+TCP TTL:63 TOS:0x0 ID:53436 IpLen:20 DgmLen:717 DF
+***AP*** Seq: 0xBBAC6DF2  Ack: 0xC339AC62  Win: 0x1920  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-08:00:04.006004 207.46.148.32:80 -> 192.168.1.169:2420
+TCP TTL:63 TOS:0x0 ID:42836 IpLen:20 DgmLen:455 DF
+***AP*** Seq: 0x9A8E26A2  Ack: 0x2E176BA0  Win: 0x2730  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-08:00:36.477859 72.14.213.148:80 -> 192.168.1.169:2454
+TCP TTL:63 TOS:0x0 ID:6655 IpLen:20 DgmLen:706 DF
+***AP*** Seq: 0xB5CEA842  Ack: 0x7D5EDFB8  Win: 0x2180  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-08:00:36.510313 64.210.61.124:80 -> 192.168.1.169:2478
+TCP TTL:63 TOS:0x0 ID:21615 IpLen:20 DgmLen:1029 DF
+***AP*** Seq: 0xD9F7A69B  Ack: 0x25E4A8F0  Win: 0x21A2  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-08:00:54.448021 69.194.244.14:80 -> 192.168.1.169:2485
+TCP TTL:63 TOS:0x0 ID:51778 IpLen:20 DgmLen:685 DF
+***AP*** Seq: 0xEBA31B60  Ack: 0x57E4034  Win: 0x1920  TcpLen: 20
+
+[**] [1:10000648:2] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+05/18-08:01:45.591840 172.16.16.218:80 -> 192.168.1.169:2493
+TCP TTL:63 TOS:0x0 ID:53309 IpLen:20 DgmLen:1127 DF
+***AP*** Seq: 0x1B2C3517  Ack: 0x9F9E0666  Win: 0x1920  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-08:02:47.628825 72.14.213.113:80 -> 192.168.1.170:55016
+TCP TTL:63 TOS:0x0 ID:28227 IpLen:20 DgmLen:560 DF
+***AP*** Seq: 0x559D931F  Ack: 0x44FA3BC0  Win: 0x7B1  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 5700971 166701262 
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-08:02:48.564251 204.77.31.254:80 -> 192.168.1.170:48899
+TCP TTL:63 TOS:0x0 ID:28428 IpLen:20 DgmLen:687 DF
+***AP*** Seq: 0x567692A6  Ack: 0x459EE810  Win: 0x6E8  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 5701065 166701462 
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-08:03:00.855656 72.14.213.113:80 -> 192.168.1.170:55016
+TCP TTL:63 TOS:0x0 ID:28229 IpLen:20 DgmLen:560 DF
+***AP*** Seq: 0x559D951B  Ack: 0x44FA3FDF  Win: 0x9C0  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 5702294 166704585 
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-08:03:01.502996 204.77.31.254:80 -> 192.168.1.170:48910
+TCP TTL:63 TOS:0x0 ID:9479 IpLen:20 DgmLen:687 DF
+***AP*** Seq: 0x62EA27BD  Ack: 0x50E4671A  Win: 0x70B  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 5702358 166704697 
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-08:03:01.615656 72.14.213.149:80 -> 192.168.1.170:36352
+TCP TTL:63 TOS:0x0 ID:38031 IpLen:20 DgmLen:718 DF
+***AP*** Seq: 0x5581A372  Ack: 0x44DB8CD4  Win: 0xF61  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 5702370 166704775 
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-08:03:02.320121 72.14.213.149:80 -> 192.168.1.170:36371
+TCP TTL:63 TOS:0x0 ID:40201 IpLen:20 DgmLen:589 DF
+***AP*** Seq: 0x6338088A  Ack: 0x51DA6F88  Win: 0x8CC  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 5702440 166704952 
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-08:03:59.150266 72.14.213.102:80 -> 192.168.1.169:2511
+TCP TTL:63 TOS:0x0 ID:21368 IpLen:20 DgmLen:548 DF
+***AP*** Seq: 0x98DE4A24  Ack: 0x26839ACD  Win: 0x1D50  TcpLen: 20
+
+[**] [116:59:1] (snort_decoder): Tcp Window Scale Option found with length > 14 [**]
+[Priority: 3] 
+05/18-08:04:28.974574 192.168.1.169:36953 -> 192.168.1.10:38288
+TCP TTL:40 TOS:0x0 ID:58145 IpLen:20 DgmLen:60
+**U*P**F Seq: 0x49B898B0  Ack: 0x9EF411B1  Win: 0xFFFF  TcpLen: 40  UrgPtr: 0x0
+TCP Options (5) => WS: 15 NOP MSS: 265 TS: 4294967295 0 SackOK 
+
+[**] [116:59:1] (snort_decoder): Tcp Window Scale Option found with length > 14 [**]
+[Priority: 3] 
+05/18-08:04:29.092667 192.168.1.169:36953 -> 192.168.1.2:43687
+TCP TTL:56 TOS:0x0 ID:55927 IpLen:20 DgmLen:60
+**U*P**F Seq: 0x49B898B0  Ack: 0x9EF411B1  Win: 0xFFFF  TcpLen: 40  UrgPtr: 0x0
+TCP Options (5) => WS: 15 NOP MSS: 265 TS: 4294967295 0 SackOK 
+
+[**] [116:59:1] (snort_decoder): Tcp Window Scale Option found with length > 14 [**]
+[Priority: 3] 
+05/18-08:04:29.160160 192.168.1.169:36953 -> 192.168.1.10:38288
+TCP TTL:46 TOS:0x0 ID:51951 IpLen:20 DgmLen:60
+**U*P**F Seq: 0x49B898B0  Ack: 0x9EF411B1  Win: 0xFFFF  TcpLen: 40  UrgPtr: 0x0
+TCP Options (5) => WS: 15 NOP MSS: 265 TS: 4294967295 0 SackOK 
+
+[**] [116:59:1] (snort_decoder): Tcp Window Scale Option found with length > 14 [**]
+[Priority: 3] 
+05/18-08:04:29.341094 192.168.1.169:36953 -> 192.168.1.10:38288
+TCP TTL:44 TOS:0x0 ID:42331 IpLen:20 DgmLen:60
+**U*P**F Seq: 0x49B898B0  Ack: 0x9EF411B1  Win: 0xFFFF  TcpLen: 40  UrgPtr: 0x0
+TCP Options (5) => WS: 15 NOP MSS: 265 TS: 4294967295 0 SackOK 
+
+[**] [116:59:1] (snort_decoder): Tcp Window Scale Option found with length > 14 [**]
+[Priority: 3] 
+05/18-08:04:29.362479 192.168.1.169:36953 -> 192.168.1.30:31935
+TCP TTL:58 TOS:0x0 ID:34034 IpLen:20 DgmLen:60
+**U*P**F Seq: 0x49B898B0  Ack: 0x9EF411B1  Win: 0xFFFF  TcpLen: 40  UrgPtr: 0x0
+TCP Options (5) => WS: 15 NOP MSS: 265 TS: 4294967295 0 SackOK 
+
+[**] [116:59:1] (snort_decoder): Tcp Window Scale Option found with length > 14 [**]
+[Priority: 3] 
+05/18-08:04:29.529108 192.168.1.169:36953 -> 192.168.1.10:38288
+TCP TTL:45 TOS:0x0 ID:19795 IpLen:20 DgmLen:60
+**U*P**F Seq: 0x49B898B0  Ack: 0x9EF411B1  Win: 0xFFFF  TcpLen: 40  UrgPtr: 0x0
+TCP Options (5) => WS: 15 NOP MSS: 265 TS: 4294967295 0 SackOK 
+
+[**] [116:59:1] (snort_decoder): Tcp Window Scale Option found with length > 14 [**]
+[Priority: 3] 
+05/18-08:04:29.886795 192.168.1.169:36953 -> 192.168.1.30:31935
+TCP TTL:57 TOS:0x0 ID:48818 IpLen:20 DgmLen:60
+**U*P**F Seq: 0x49B898B0  Ack: 0x9EF411B1  Win: 0xFFFF  TcpLen: 40  UrgPtr: 0x0
+TCP Options (5) => WS: 15 NOP MSS: 265 TS: 4294967295 0 SackOK 
+
+[**] [116:59:1] (snort_decoder): Tcp Window Scale Option found with length > 14 [**]
+[Priority: 3] 
+05/18-08:04:30.419140 192.168.1.169:36953 -> 192.168.1.30:31935
+TCP TTL:43 TOS:0x0 ID:20732 IpLen:20 DgmLen:60
+**U*P**F Seq: 0x49B898B0  Ack: 0x9EF411B1  Win: 0xFFFF  TcpLen: 40  UrgPtr: 0x0
+TCP Options (5) => WS: 15 NOP MSS: 265 TS: 4294967295 0 SackOK 
+
+[**] [116:59:1] (snort_decoder): Tcp Window Scale Option found with length > 14 [**]
+[Priority: 3] 
+05/18-08:04:30.948974 192.168.1.169:36953 -> 192.168.1.30:31935
+TCP TTL:56 TOS:0x0 ID:10120 IpLen:20 DgmLen:60
+**U*P**F Seq: 0x49B898B0  Ack: 0x9EF411B1  Win: 0xFFFF  TcpLen: 40  UrgPtr: 0x0
+TCP Options (5) => WS: 15 NOP MSS: 265 TS: 4294967295 0 SackOK 
+
+[**] [116:59:1] (snort_decoder): Tcp Window Scale Option found with length > 14 [**]
+[Priority: 3] 
+05/18-08:04:33.076313 192.168.1.169:36953 -> 192.168.1.10:40350
+TCP TTL:37 TOS:0x0 ID:54649 IpLen:20 DgmLen:60
+**U*P**F Seq: 0x27754F9A  Ack: 0x5E77EF74  Win: 0xFFFF  TcpLen: 40  UrgPtr: 0x0
+TCP Options (5) => WS: 15 NOP MSS: 265 TS: 4294967295 0 SackOK 
+
+[**] [116:59:1] (snort_decoder): Tcp Window Scale Option found with length > 14 [**]
+[Priority: 3] 
+05/18-08:04:33.268762 192.168.1.169:36953 -> 192.168.1.10:40350
+TCP TTL:58 TOS:0x0 ID:1017 IpLen:20 DgmLen:60
+**U*P**F Seq: 0x27754F9A  Ack: 0x5E77EF74  Win: 0xFFFF  TcpLen: 40  UrgPtr: 0x0
+TCP Options (5) => WS: 15 NOP MSS: 265 TS: 4294967295 0 SackOK 
+
+[**] [116:59:1] (snort_decoder): Tcp Window Scale Option found with length > 14 [**]
+[Priority: 3] 
+05/18-08:04:33.525746 192.168.1.169:36953 -> 192.168.1.30:36430
+TCP TTL:55 TOS:0x0 ID:6788 IpLen:20 DgmLen:60
+**U*P**F Seq: 0x27754F9A  Ack: 0x5E77EF74  Win: 0xFFFF  TcpLen: 40  UrgPtr: 0x0
+TCP Options (5) => WS: 15 NOP MSS: 265 TS: 4294967295 0 SackOK 
+
+[**] [116:59:1] (snort_decoder): Tcp Window Scale Option found with length > 14 [**]
+[Priority: 3] 
+05/18-08:04:33.526513 192.168.1.169:36953 -> 192.168.1.10:40350
+TCP TTL:54 TOS:0x0 ID:21525 IpLen:20 DgmLen:60
+**U*P**F Seq: 0x27754F9A  Ack: 0x5E77EF74  Win: 0xFFFF  TcpLen: 40  UrgPtr: 0x0
+TCP Options (5) => WS: 15 NOP MSS: 265 TS: 4294967295 0 SackOK 
+
+[**] [116:59:1] (snort_decoder): Tcp Window Scale Option found with length > 14 [**]
+[Priority: 3] 
+05/18-08:04:33.718214 192.168.1.169:36953 -> 192.168.1.10:40350
+TCP TTL:45 TOS:0x0 ID:32716 IpLen:20 DgmLen:60
+**U*P**F Seq: 0x27754F9A  Ack: 0x5E77EF74  Win: 0xFFFF  TcpLen: 40  UrgPtr: 0x0
+TCP Options (5) => WS: 15 NOP MSS: 265 TS: 4294967295 0 SackOK 
+
+[**] [116:59:1] (snort_decoder): Tcp Window Scale Option found with length > 14 [**]
+[Priority: 3] 
+05/18-08:04:34.057618 192.168.1.169:36953 -> 192.168.1.30:36430
+TCP TTL:55 TOS:0x0 ID:31145 IpLen:20 DgmLen:60
+**U*P**F Seq: 0x27754F9A  Ack: 0x5E77EF74  Win: 0xFFFF  TcpLen: 40  UrgPtr: 0x0
+TCP Options (5) => WS: 15 NOP MSS: 265 TS: 4294967295 0 SackOK 
+
+[**] [116:59:1] (snort_decoder): Tcp Window Scale Option found with length > 14 [**]
+[Priority: 3] 
+05/18-08:04:34.587735 192.168.1.169:36953 -> 192.168.1.30:36430
+TCP TTL:39 TOS:0x0 ID:59495 IpLen:20 DgmLen:60
+**U*P**F Seq: 0x27754F9A  Ack: 0x5E77EF74  Win: 0xFFFF  TcpLen: 40  UrgPtr: 0x0
+TCP Options (5) => WS: 15 NOP MSS: 265 TS: 4294967295 0 SackOK 
+
+[**] [116:59:1] (snort_decoder): Tcp Window Scale Option found with length > 14 [**]
+[Priority: 3] 
+05/18-08:04:35.119021 192.168.1.169:36953 -> 192.168.1.30:36430
+TCP TTL:46 TOS:0x0 ID:13840 IpLen:20 DgmLen:60
+**U*P**F Seq: 0x27754F9A  Ack: 0x5E77EF74  Win: 0xFFFF  TcpLen: 40  UrgPtr: 0x0
+TCP Options (5) => WS: 15 NOP MSS: 265 TS: 4294967295 0 SackOK 
+
+[**] [116:59:1] (snort_decoder): Tcp Window Scale Option found with length > 14 [**]
+[Priority: 3] 
+05/18-08:04:38.805728 192.168.1.169:36891 -> 192.168.1.170:32165
+TCP TTL:56 TOS:0x0 ID:58970 IpLen:20 DgmLen:60
+**U*P**F Seq: 0xC7F58099  Ack: 0x344E23A5  Win: 0xFFFF  TcpLen: 40  UrgPtr: 0x0
+TCP Options (5) => WS: 15 NOP MSS: 265 TS: 4294967295 0 SackOK 
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-08:06:57.328351 72.14.213.102:80 -> 192.168.1.169:2547
+TCP TTL:63 TOS:0x0 ID:6278 IpLen:20 DgmLen:548 DF
+***AP*** Seq: 0x3EA64659  Ack: 0x3FC65141  Win: 0x1AB8  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-08:06:57.581993 98.142.98.80:80 -> 192.168.1.169:2550
+TCP TTL:63 TOS:0x0 ID:29907 IpLen:20 DgmLen:543 DF
+***AP*** Seq: 0x3E6F2BD2  Ack: 0x99ACD64F  Win: 0x1920  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-08:06:57.594478 98.142.98.80:80 -> 192.168.1.169:2549
+TCP TTL:63 TOS:0x0 ID:17197 IpLen:20 DgmLen:543 DF
+***AP*** Seq: 0x3E781DD0  Ack: 0xD2AEA606  Win: 0x1920  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-08:07:05.827162 72.247.253.115:80 -> 192.168.1.169:2574
+TCP TTL:63 TOS:0x0 ID:43587 IpLen:20 DgmLen:583 DF
+***AP*** Seq: 0x4604C876  Ack: 0xAF722710  Win: 0x1920  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-08:07:08.388791 64.236.85.181:80 -> 192.168.1.169:2577
+TCP TTL:63 TOS:0x0 ID:38291 IpLen:20 DgmLen:926 DF
+***AP*** Seq: 0x4872F6BC  Ack: 0x10B9F1E  Win: 0x1920  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-08:07:08.558767 72.14.213.102:80 -> 192.168.1.169:2547
+TCP TTL:63 TOS:0x0 ID:6280 IpLen:20 DgmLen:548 DF
+***AP*** Seq: 0x3EA64855  Ack: 0x3FC65435  Win: 0x20A8  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-08:07:09.627995 204.203.18.154:80 -> 192.168.1.169:2584
+TCP TTL:63 TOS:0x0 ID:25385 IpLen:20 DgmLen:1446 DF
+***AP*** Seq: 0x4A1400B6  Ack: 0xABEF78A4  Win: 0x1920  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-08:07:09.746002 204.203.18.154:80 -> 192.168.1.169:2579
+TCP TTL:63 TOS:0x0 ID:33629 IpLen:20 DgmLen:1444 DF
+***AP*** Seq: 0x49FD3970  Ack: 0x3E1191D3  Win: 0x25B0  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-08:07:10.183724 204.203.18.154:80 -> 192.168.1.169:2581
+TCP TTL:63 TOS:0x0 ID:59619 IpLen:20 DgmLen:1452 DF
+***AP*** Seq: 0x4A08E408  Ack: 0x965F04E1  Win: 0x25B0  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-08:07:10.184823 204.203.18.154:80 -> 192.168.1.169:2584
+TCP TTL:63 TOS:0x0 ID:25393 IpLen:20 DgmLen:1452 DF
+***AP*** Seq: 0x4A1423C2  Ack: 0xABEF7B8A  Win: 0x2180  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-08:07:10.186959 204.203.18.154:80 -> 192.168.1.169:2579
+TCP TTL:63 TOS:0x0 ID:33630 IpLen:20 DgmLen:1452 DF
+***AP*** Seq: 0x49FD3EEC  Ack: 0x3E11933F  Win: 0x29E0  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-08:07:10.210638 204.203.18.154:80 -> 192.168.1.169:2581
+TCP TTL:63 TOS:0x0 ID:59620 IpLen:20 DgmLen:1452 DF
+***AP*** Seq: 0x4A08E98C  Ack: 0x965F064D  Win: 0x29E0  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-08:07:10.211594 204.203.18.154:80 -> 192.168.1.169:2584
+TCP TTL:63 TOS:0x0 ID:25394 IpLen:20 DgmLen:1452 DF
+***AP*** Seq: 0x4A142946  Ack: 0xABEF7CF6  Win: 0x25B0  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-08:07:13.391616 72.14.213.102:80 -> 192.168.1.169:2547
+TCP TTL:63 TOS:0x0 ID:6282 IpLen:20 DgmLen:548 DF
+***AP*** Seq: 0x3EA64A51  Ack: 0x3FC6576A  Win: 0x267C  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-08:07:21.348169 64.154.84.50:80 -> 192.168.1.169:2586
+TCP TTL:63 TOS:0x0 ID:4056 IpLen:20 DgmLen:1252 DF
+***AP*** Seq: 0x550A6BCB  Ack: 0x685DA755  Win: 0x1F27  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-08:07:21.368365 64.154.84.50:80 -> 192.168.1.169:2587
+TCP TTL:63 TOS:0x0 ID:18561 IpLen:20 DgmLen:1253 DF
+***AP*** Seq: 0x54C3256D  Ack: 0x4E50A7BD  Win: 0x2499  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-08:07:38.312268 72.14.213.148:80 -> 192.168.1.170:58107
+TCP TTL:63 TOS:0x0 ID:776 IpLen:20 DgmLen:468 DF
+***AP*** Seq: 0x4E376F25  Ack: 0x3E49A4E3  Win: 0xA75  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 5730038 166773945 
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-08:07:38.334962 69.147.76.120:80 -> 192.168.1.170:59498
+TCP TTL:63 TOS:0x0 ID:40389 IpLen:20 DgmLen:617 DF
+***AP*** Seq: 0x64FBF319  Ack: 0x54308BB2  Win: 0x6DB  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 5730040 166773922 
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-08:07:38.439116 69.147.76.120:80 -> 192.168.1.170:59499
+TCP TTL:63 TOS:0x0 ID:1880 IpLen:20 DgmLen:822 DF
+***AP*** Seq: 0x64CF69B1  Ack: 0x53F077E2  Win: 0x6E0  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 5730051 166773945 
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-08:07:38.797854 69.147.76.120:80 -> 192.168.1.170:59498
+TCP TTL:63 TOS:0x0 ID:40391 IpLen:20 DgmLen:617 DF
+***AP*** Seq: 0x64FBF54E  Ack: 0x54308E4E  Win: 0x829  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 5730086 166774036 
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-08:07:39.429610 72.14.213.139:80 -> 192.168.1.170:54033
+TCP TTL:63 TOS:0x0 ID:65260 IpLen:20 DgmLen:560 DF
+***AP*** Seq: 0x65A691B5  Ack: 0x551D86D8  Win: 0x797  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 5730149 166774244 
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-08:07:39.517571 72.14.213.148:80 -> 192.168.1.170:58107
+TCP TTL:63 TOS:0x0 ID:786 IpLen:20 DgmLen:468 DF
+***AP*** Seq: 0x4E377E73  Ack: 0x3E49AFAB  Win: 0x1111  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 5730158 166774248 
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-08:07:40.108617 204.203.18.152:80 -> 192.168.1.170:34241
+TCP TTL:63 TOS:0x0 ID:27839 IpLen:20 DgmLen:729 DF
+***AP*** Seq: 0x66A2031C  Ack: 0x5661EAD7  Win: 0x70E  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 5730217 166774415 
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-08:07:41.769972 96.16.50.53:80 -> 192.168.1.170:60236
+TCP TTL:63 TOS:0x0 ID:55883 IpLen:20 DgmLen:561 DF
+***AP*** Seq: 0x38DB23B7  Ack: 0x27F8BF62  Win: 0x1054  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 5730384 166774832 
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-08:08:03.939906 138.108.29.10:80 -> 192.168.1.170:54265
+TCP TTL:63 TOS:0x0 ID:20148 IpLen:20 DgmLen:557 DF
+***AP*** Seq: 0x7D1B3652  Ack: 0x6C4EE854  Win: 0x70C  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 5732601 166780333 
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-08:08:24.344704 72.14.213.139:80 -> 192.168.1.170:54055
+TCP TTL:63 TOS:0x0 ID:51099 IpLen:20 DgmLen:560 DF
+***AP*** Seq: 0x90FF4770  Ack: 0x7F184855  Win: 0x7C8  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 5734641 166785477 
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-08:09:00.214405 96.16.97.89:80 -> 192.168.1.169:2606
+TCP TTL:63 TOS:0x0 ID:36042 IpLen:20 DgmLen:641 DF
+***AP*** Seq: 0xB1EF022E  Ack: 0xD874F3E1  Win: 0x1920  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-08:09:02.336125 72.14.213.102:80 -> 192.168.1.169:2615
+TCP TTL:63 TOS:0x0 ID:59664 IpLen:20 DgmLen:548 DF
+***AP*** Seq: 0xB3D166CF  Ack: 0x982A23D  Win: 0x1BC6  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-08:09:02.407059 72.14.213.149:80 -> 192.168.1.169:2616
+TCP TTL:63 TOS:0x0 ID:47613 IpLen:20 DgmLen:584 DF
+***AP*** Seq: 0xB374363E  Ack: 0xA7EFCE01  Win: 0x1920  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-08:09:02.519194 72.14.213.149:80 -> 192.168.1.169:2617
+TCP TTL:63 TOS:0x0 ID:23049 IpLen:20 DgmLen:584 DF
+***AP*** Seq: 0xB390D5C5  Ack: 0x222266A1  Win: 0x1920  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-08:09:07.946090 69.147.76.120:80 -> 192.168.1.170:59527
+TCP TTL:63 TOS:0x0 ID:29654 IpLen:20 DgmLen:617 DF
+***AP*** Seq: 0xB907E208  Ack: 0xA77F85B5  Win: 0x724  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 5739001 166796329 
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-08:09:09.816624 72.14.213.139:80 -> 192.168.1.170:54055
+TCP TTL:63 TOS:0x0 ID:51101 IpLen:20 DgmLen:560 DF
+***AP*** Seq: 0x90FF496C  Ack: 0x7F184C5F  Win: 0x9E7  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 5739188 166796846 
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-08:09:09.898818 72.14.213.148:80 -> 192.168.1.170:58142
+TCP TTL:63 TOS:0x0 ID:26780 IpLen:20 DgmLen:468 DF
+***AP*** Seq: 0xBA0C03EB  Ack: 0xA8E7B64F  Win: 0xDD5  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 5739196 166796846 
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-08:09:09.956865 204.203.18.152:80 -> 192.168.1.170:34241
+TCP TTL:63 TOS:0x0 ID:27843 IpLen:20 DgmLen:729 DF
+***AP*** Seq: 0x66A20829  Ack: 0x5661F236  Win: 0xAF4  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 5739202 166796883 
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-08:09:11.717100 138.108.29.10:80 -> 192.168.1.170:54287
+TCP TTL:63 TOS:0x0 ID:56179 IpLen:20 DgmLen:557 DF
+***AP*** Seq: 0xBC204828  Ack: 0xAB028304  Win: 0x75A  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 5739378 166797280 
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-08:09:12.722826 72.14.213.113:80 -> 192.168.1.170:58142
+TCP TTL:63 TOS:0x0 ID:3523 IpLen:20 DgmLen:560 DF
+***AP*** Seq: 0xBE039E0D  Ack: 0xABFDBCC8  Win: 0x7DA  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 5739479 166797574 
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-08:09:12.925492 72.14.213.113:80 -> 192.168.1.170:58142
+TCP TTL:63 TOS:0x0 ID:3526 IpLen:20 DgmLen:560 DF
+***AP*** Seq: 0xBE03A009  Ack: 0xABFDC52F  Win: 0xD82  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 5739499 166797607 
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-08:09:12.985289 64.94.107.27:80 -> 192.168.1.170:52865
+TCP TTL:63 TOS:0x0 ID:1496 IpLen:20 DgmLen:498 DF
+***AP*** Seq: 0xBDD4960A  Ack: 0xAC31A280  Win: 0x776  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 5739505 166797609 
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-08:15:06.474654 64.30.224.42:80 -> 192.168.1.169:2634
+TCP TTL:63 TOS:0x0 ID:24543 IpLen:20 DgmLen:639 DF
+***AP*** Seq: 0x5EA4839  Ack: 0x2CDFA0DE  Win: 0x2180  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-08:15:08.286168 216.239.113.95:80 -> 192.168.1.169:2650
+TCP TTL:63 TOS:0x0 ID:57018 IpLen:20 DgmLen:728 DF
+***AP*** Seq: 0x95FC010  Ack: 0x9C6308FA  Win: 0x1A28  TcpLen: 20
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+05/18-08:15:08.361442 138.108.28.10:80 -> 192.168.1.169:2649
+TCP TTL:63 TOS:0x0 ID:46682 IpLen:20 DgmLen:545 DF
+***AP*** Seq: 0xA06A8C7  Ack: 0xB9C8BDC5  Win: 0x1B28  TcpLen: 20
+
